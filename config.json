@@ -6,8 +6,8 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright Text",
-  "usage-stats": false
+  "footer": "Rüzgar Erik 2022",
+  "usage-stats": true
 }
