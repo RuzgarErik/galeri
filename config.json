@@ -10,5 +10,5 @@
   "css": "./custom.css",
   "footer": "Rüzgar Erik 2022",
   "usage-stats": true,
-  "google-analytics": "G-D78BRDY5SL"
+  "embed-exif": true
 }
